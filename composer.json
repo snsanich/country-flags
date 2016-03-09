@@ -1,0 +1,22 @@
+{
+    "name":         "snsanich/country-flags",
+    "description":  "This repository contains renders of all the worlds flags in SVG and PNG format.",
+    "keywords": [
+            "flags"
+        ],
+    "license":      "MIT",
+    "type":         "library",
+    "authors": [
+            {
+                "name":     "Paragon Initiative Enterprises",
+                "email":    "security@paragonie.com",
+                "homepage": "https://paragonie.com"
+            }
+        ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*|5.*"
+    }
+}
